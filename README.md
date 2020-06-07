@@ -1,13 +1,13 @@
 # :star: Named-entity-recognizer
-Implementation of a `named-entity recognizer` for the English language. The model is trained with a corpus containing almost $14,000$ English sentences.  
+Implementation of a `named-entity recognizer` for the English language. The model is trained with a corpus containing almost 14,000 English sentences.  
   
 ## :dart: Model  
 Model (mini model) in the repo is trained using mini data which contains only almost 100 English sentences.  
 Therefore, it does not perform well enough.  
   
 - I encourage you to train a new model on your own using the corpus in data/ directory.  
-- My training lasted almost $20$ minutes 
-- Training accuracy was $100\%$ where test accuracy was $97\%$.  
+- My training lasted almost 20 minutes 
+- Training accuracy was 100% where test accuracy was 97%.  
   
 ## :shield: Usage  
 
